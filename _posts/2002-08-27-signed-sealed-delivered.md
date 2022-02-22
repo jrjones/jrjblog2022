@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Signed, sealed, delivered.
-date: 2002-08-27 21:26
+date: 2002-08-27 21:26:00
 author: jrj
 comments: false
 categories: [Uncategorized]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: WE OWN A HOUSE
-date: 2002-08-27 15:56
+date: 2002-08-27 15:56:00
 author: jrj
 comments: false
 categories: [Uncategorized]

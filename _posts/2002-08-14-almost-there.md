@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Almost there
-date: 2002-08-14 11:36
+date: 2002-08-14 11:36:00
 author: jrj
 comments: false
 categories: [Uncategorized]

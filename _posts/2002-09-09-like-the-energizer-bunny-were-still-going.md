@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Like the Energizer Bunny, we're still going...
-date: 2002-09-09 22:42
+date: 2002-09-09 22:42:00
 author: jrj
 comments: false
 categories: [Uncategorized]
