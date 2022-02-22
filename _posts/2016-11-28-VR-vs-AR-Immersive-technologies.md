@@ -6,13 +6,11 @@ category: "Virtual Reality"
 tags: [virtual reality, vr, augmented reality, ar, mixed reality, immersive technologies, technology, futurism]
 author: jrj
 teaser: "I answered a question on Quora that's common for folks just starting to explore immersive technologies..."
+
 image:
-  homepage: "VR-AR-dude.jpg"
-  thumb: "VR-AR-dude-thumb.jpg"
-  caption: "VR vs. AR: Which Will Dominate?"
-header:
-  image_fullwidth: "VR-AR-dude.jpg"
-  title: ""
+  src: "/images/VR-AR-dude.jpg"
+  alt: "VR and AR are neither mutually exclusive nor entirely competitive"
+
 ---
 
 Someone on Quora asked the question "What will be more dominant in the next few years, Augmented Reality (AR) or Virtual Reality (VR)? I'm reposting <a href="https://www.quora.com/What-will-be-more-dominant-in-the-next-few-years-augmented-reality-or-virtual-reality/answer/Joseph-R-Jones?srid=oWkM&share=605d933c">my response</a> here on the blog.

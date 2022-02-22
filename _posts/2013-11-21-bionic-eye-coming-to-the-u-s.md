@@ -7,6 +7,8 @@ tags: [futurism, Google Glass, human augmentation, research, medicine, augmented
 category: Futurism
 teaser: "Imagine a cochlear implant, but for the visually impaired…"
 image:
+  src: /images/postheads/implantedeye.png
+  width: 100%
   frontpage: postheads/implantedeye.png
   thumb: postheads/implantedeye.png
 header:

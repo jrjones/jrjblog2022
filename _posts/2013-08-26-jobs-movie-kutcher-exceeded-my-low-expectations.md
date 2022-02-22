@@ -8,6 +8,8 @@ tags: [Apple, Steve Jobs, reviews, JRJ personal, movies]
 category: JRJ Personal
 teaser: "Not a great movie, but low expectations allowed me to enjoy it anyway…"
 image:
+  src: /images/postheads/jobsmovie.png
+  width: 100%
   frontpage: postheads/jobsmovie.png
   thumb: postheads/jobsmovie.png
 header:

@@ -7,6 +7,7 @@ tags: [education, science, astronomy, jupiter, anecdote]
 author: jrj
 teaser: "A brief story from my youth that taught me a lesson about science..."
 image:
+  src: "/images/jupiter-background.jpg"
   homepage: "jupiter-background.jpg"
   thumb: "postheads/jupiter-thumb.jpg"
   caption: "A brief story from my youth that taught me a lesson about science..."

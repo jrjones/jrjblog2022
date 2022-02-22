@@ -7,6 +7,8 @@ tags: [Bill Gates, futurism, GPS, smartphones, predictions, mobile payments, sen
 category: Futurism
 teaser: "Looking back at Gates’ “Wallet PC” prediction twenty years later…"
 image:
+  src: /images/postheads/gatespredict.png
+  width: 100%
   homepage: postheads/gatespredict.png
   thumb: postheads/gatespredict.png
 header:

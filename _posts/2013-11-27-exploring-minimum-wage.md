@@ -10,6 +10,8 @@ header:
   image: postheads/minimumwage.png
   background-color: "#333333"
 image: 
+  src: /images/postheads/minimumwage.png
+  width: 100%
   frontpage: postheads/minimumwage.png
   thumb: postheads/minimumwage.png
 ---

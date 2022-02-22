@@ -6,6 +6,7 @@ author: jrj
 comments: false
 tags: [Automotive, JRJ Personal, Unboxing]
 categories: [Automotive, JRJ Personal]
+archive: true
 ---
 <div style="text-align: center"></div>
 OK, this doesn’t really fit in with the usual theme of my “unboxed!” series of new tech toys... but hey, since it has a navigation system I figured I’d get a pass.

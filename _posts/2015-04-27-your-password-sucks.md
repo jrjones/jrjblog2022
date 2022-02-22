@@ -7,6 +7,8 @@ tags: [1Password, hacking, LastPass, passwords, privacy, security, technology]
 author: jrj
 teaser: "Your password sucks, but every character counts…"
 image:
+  src: "/images/postheads/passwordsucks.png"
+  width: 100%
   homepage: "postheads/passwordsucks.png"
   thumb: "postheads/passwordsucks.png"
 header:
@@ -19,7 +21,7 @@ header:
 
 [Jeff Atwood has a great piece on Passwords](http://blog.codinghorror.com/your-password-is-too-damn-short/), with a heavy emphasis on length. He uses [Steve Gibson's Password Crack Checker](https://www.grc.com/haystack.htm) to estimate the amount of time needed to crack passwords of varying lengths, and the numbers will probably surprise you... and keep in mind, this is for a truly random password (like `Uhs&amp;81Aj`) - anything with variations of dictionary words, like `M0nk3y!89` would be MUCH faster. Indeed, that password would be cracked by most brute force cracking tools within a few seconds.
 
-![Your Password is too Damn Short!](/assets/your-password-is-too-damn-short.jpg "Your password is too damn short!")
+![Your Password is too Damn Short!](/images/your-password-is-too-damn-short.jpg "Your password is too damn short!")
 
 A random 8-character password using all character types takes over 2,100 years to crack in the "online attack scenario," which is guessing 1,000 attacks per second over a network. (And that's probably a bit optimistic - few network cracks could do that many requests per second. Figure it's probably 3-5X longer in most real-world online attacks.) Hence, it works great in this situation. **However, that's not how passwords are typically attacked.** A more realistic attack is that someone downloads a bunch of leaked password hashes from an online breach, and they can attack the password locally. On a typical computer, depending on the hashing technique used, this can be very fast, as in a hundred billion guesses per second fast. Using this technique, cracking our hypothetical 8-character password takes 18.62 hours. Obviously, this is unacceptable-- the password can be trivially cracked in under a day using a typical PC workstation.
 

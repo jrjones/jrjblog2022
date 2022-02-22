@@ -30,6 +30,7 @@ gallery:
   - image_url: galleries/f250/11-dash.jpg
   - image_url: galleries/f250/12-dash.jpg    
 
+archive: true
 ---
 Rach and I are buying an RV (well, actually we've already bought the fifth wheel RV, but we don't get to pick it up for a while because it's being custom-built.) Consequently, we needed a truck capable of towing a pretty hefty trailer. I did tons of research, and decided to get the [Ford F-250 Super Duty][1] because it was the most quiet and comfortable, had the [best iPod/iPhone integration][2], and I liked the [factory fifth wheel hitch readiness][3], [trailer brake control][4], and [trailer sway control][5] functionality.
 

@@ -7,6 +7,8 @@ tags: [backup, howto, Apple, iOS, iTunes, JRJ personal, Mac OS, technology]
 author: jrj
 teaser: "Changing the location where iTunes backs up your iOS devices…"
 image: 
+  src: "/images/postheads/itunesbackuploc.png"
+  width: 100%
   homepage: "postheads/itunesbackuploc.png"
   thumb: "postheads/itunesbackuploc.png"
 header:

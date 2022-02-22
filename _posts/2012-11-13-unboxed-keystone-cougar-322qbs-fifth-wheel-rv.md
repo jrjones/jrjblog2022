@@ -21,6 +21,8 @@ gallery:
     caption: "Outside"
   - image_url: galleries/arvie/04-livingroom.jpg
     caption: "Living room"
+
+archive: true
 ---
 My wife and I recently purchased a fifth wheel RV. I wasn't planning to post pictures here because it's of interest to such a small group of people, but a few friends who aren't on Facebook asked to see it, so here we are.
 

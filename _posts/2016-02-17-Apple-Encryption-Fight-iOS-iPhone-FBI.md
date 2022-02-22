@@ -7,6 +7,7 @@ tags: [security, privacy, Apple, iOS, encryption, FBI, legal]
 author: jrj
 teaser: "Apple is playing chicken with the FBI over their right to build software and hardware that securely protects user data..."
 image:
+  src: "/images/postheads/applefbi-plustitle.png"
   homepage: "postheads/applefbi-plustitle.png"
   thumb: "postheads/applefbi-thumb.png"
   caption: "Apple is playing chicken with the FBI over encryption..."

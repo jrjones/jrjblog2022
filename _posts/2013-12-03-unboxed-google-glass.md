@@ -7,23 +7,25 @@ tags: [augmented reality, futurism, Google Glass, technology, unboxed, wearables
 category: Technology
 teaser: "My Google Glass Explorer pack arrived today, and was unboxed…"
 image: 
+  src: /images/postheads/google-glass-unboxed.png
+  width: 100%
   frontpage: postheads/google-glass-unboxed.png
   thumb: postheads/google-glass-unboxed.png
 header:
   image: postheads/google-glass-unboxed.png
   background-color: "#000000"
 gallery:
-  - image_url: galleries/googleglass/0-unopened.jpg
+  - image_url: /images/galleries/googleglass/0-unopened.jpg
     caption: "Google Glass sites quietly and patiently in its box... I, meanwhile, was NOT patient."
-  - image_url: galleries/googleglass/1-opened.jpg
+  - image_url: /images/galleries/googleglass/1-opened.jpg
     caption: "Open the lid, and the Google Glass sits under a cover of velum-type paper."
-  - image_url: galleries/googleglass/2-opened.jpg
+  - image_url: /images/galleries/googleglass/2-opened.jpg
     caption: "The velum veil lifted, the Google Glass sits in its box waiting to be played with."
-  - image_url: galleries/googleglass/3-note.jpg
+  - image_url: /images/galleries/googleglass/3-note.jpg
     caption: "A little note on the carrying case/pouch talks about the materials and intended use."
-  - image_url: galleries/googleglass/4-accessories.jpg
+  - image_url: /images/galleries/googleglass/4-accessories.jpg
     caption: "Underneath the Google Glass device itself sits the variouis accessories."
-  - image_url: galleries/googleglass/5-device.jpg
+  - image_url: /images/galleries/googleglass/5-device.jpg
     caption: "This is the part of the Google Glass device that sits atop your right eye."
 ---
 <!---

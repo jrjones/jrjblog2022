@@ -9,6 +9,8 @@ teaser: "Hearbleed demonstrated projects critical to the net’s infrastructure 
 header:
   image_fullwidth: jrjhead-hearbleed.png
 image:
+  src: /images/postheads/heartbleed.png
+  width: 100%
   frontpage: postheads/heartbleed.png
   thumb: postheads/heartbleed.png
 ---

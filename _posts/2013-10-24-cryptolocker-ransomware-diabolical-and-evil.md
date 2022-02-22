@@ -7,6 +7,8 @@ tags: [Cryptolocker, malware, ransomware, security]
 category: Security
 teaser: "Worst malware threat I’ve ever seen is only the beginning…"
 image:
+  src: /images/postheads/cryptolocker.png
+  width: 100%
   frontpage: postheads/cryptolocker.png
   thumb: postheads/cryptolocker.png
 header:

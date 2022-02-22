@@ -11,10 +11,11 @@ video:
   contentURL: https://www.youtube.com/watch?v=qwBzYgryJbc
   thumbnailURL: postheads/audibleonestar.png
 image:
+  src: postheads/audibleonestar.png
+  width: 100%
   frontpage: postheads/audibleonestar.png
   thumb: postheads/audibleonestar.png
-iframe: "<iframe src='https://www.youtube.com/embed/qwBzYgryJbc' frameborder='0' allowfullscreen></iframe>"
-
+  iframe: "<iframe src='https://www.youtube.com/embed/qwBzYgryJbc' frameborder='0' allowfullscreen></iframe>"
 ---
 
 [Audible.com](http://audible.com) is one of my favorite services - I have been a member for a decade, and have over 500 audio books from them.
