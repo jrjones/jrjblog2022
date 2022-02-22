@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Coming up for air
-date: 2002-09-19 10:24
+date: 2002-09-19 10:24:00
 author: jrj
 comments: false
 categories: [Uncategorized]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome to the New House Blog!
-date: 2002-07-30 14:36
+date: 2002-07-30 14:36:00
 author: jrj
 comments: false
 categories: [Uncategorized]

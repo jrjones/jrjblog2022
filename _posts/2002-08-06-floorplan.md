@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Floorplan
-date: 2002-08-06 16:36
+date: 2002-08-06 16:36:00
 author: jrj
 comments: false
 categories: [Uncategorized]

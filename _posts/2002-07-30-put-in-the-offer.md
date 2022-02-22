@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Put in the offer!
-date: 2002-07-30 14:47
+date: 2002-07-30 14:47:00
 author: jrj
 comments: false
 categories: [Uncategorized]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Who picks up the tab?
-date: 2003-03-06 15:36
+date: 2003-03-06 15:36:00
 author: jrj
 comments: false
 categories: [Uncategorized]

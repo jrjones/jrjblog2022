@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Woo-hoo! We're buying a house!
-date: 2002-08-01 15:42
+date: 2002-08-01 15:42:00
 author: jrj
 comments: false
 categories: [Uncategorized]

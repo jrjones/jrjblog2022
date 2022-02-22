@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The waiting game...
-date: 2002-08-05 14:00
+date: 2002-08-05 14:00:00
 author: jrj
 comments: false
 categories: [Uncategorized]

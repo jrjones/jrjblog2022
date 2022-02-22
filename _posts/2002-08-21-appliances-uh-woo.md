@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Appliances. Uh... woo?
-date: 2002-08-21 01:26
+date: 2002-08-21 01:26:00 
 author: jrj
 comments: false
 categories: [Uncategorized]
