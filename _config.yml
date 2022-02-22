@@ -23,7 +23,7 @@ timezone: America/Phoenix
 
 title: JRJBlog                          # the main title
 
-tagline: Technology, the future, and other mental flotsam from the mind of JRJ   # it will display as the sub-title
+tagline: Nerd herder, vidiot, and world's foremost expert in self-proclaimed thought leadership.   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   The personal blog (mostly archival) of Joseph R. Jones
@@ -40,7 +40,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Joseph R. Jones
-  email: jrj@jrj.org             # change to your email address
+  email: webmaster@jrj.org             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/jrj      # change to your twitter homepage
@@ -114,7 +114,7 @@ assets:
     # only works if `assets.self_host.enabled` is 'true'
     env:          # [development|production]
 
-paginate: 10
+paginate: 5
 
 # ------------ The following options are not recommended to be modified ------------------
 
