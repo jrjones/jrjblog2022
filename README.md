@@ -16,3 +16,9 @@ Starting with a fork of the [Chirpy](https://github.com/cotes2020/jekyll-theme-c
 
 - **Tags:** As many as needed, lower-case unless proper noun or internal cap (i.e. `iPhone`)
 
+# TODO
+A few things need to get done around here...
+
+- TODO: Limit archive to "highlights" but leave the unlinked posts around. "soft delete"
+- TODO: Drastically reduce and consolidate tags to just a couple dozen or so with multiple posts
+- TODO: 

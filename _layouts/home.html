@@ -25,24 +25,9 @@ layout: page
 
 
 <!-- Get default posts -->
-
-{% assign default_beg = offset | minus: pinned.size %}
-
-{% if default_beg < 0 %}
-  {% assign default_beg = 0 %}
-{% endif %}
-
-{% assign default_num = paginator.posts | size | minus: pinned_num  %}
-{% assign default_end = default_beg | plus: default_num | minus: 1 %}
-
-{% if default_num > 0 %}
-  {% for i in (default_beg..default_end) %}
-    {% assign posts = posts | push: default[i] %}
-  {% endfor %}
-{% endif %}
+<!--- we are only displaying pinned posts, though -->
 
 <div id="post-list">
-
 {% for post in posts %}
 
   <div class="post-preview">
@@ -95,6 +80,4 @@ layout: page
 
 </div> <!-- #post-list -->
 
-{% if paginator.total_pages > 0 %}
-  {% include post-paginator.html %}
-{% endif %}
+
