@@ -6,6 +6,7 @@ author: jrj
 comments: false
 tags: [Economics, Politics, Protests, Sense of Entitlement, Taxes]
 category: Economics
+archive: true
 ---
 I was sitting in a cafe yesterday, and I couldn’t help but overhear a conversation between two women in their mid 30’s. They were discussing the economy, and were being a bit over-dramatic about the impact it’s having on their families.
 

@@ -6,6 +6,8 @@ author: jrj
 tags: [Apple, iOS, iPhone, unboxed, video]
 category: Technology
 image: 
+  src: /images/postheads/iphone-5s-unboxed.png
+  width: 100%
   frontpage: postheads/iphone-5s-unboxed.png
   thumb: postheads/iphone-5s-unboxed.png
 header:
@@ -13,17 +15,17 @@ header:
   background-color: "#000000"
 teaser: "Pics and vids of my new iPhone 5s, and why I chose it…"
 gallery:
-  - image_url: galleries/iphone5s/0-box.jpg
+  - image_url: /images/galleries/iphone5s/0-box.jpg
     caption: "iPhone in the box"
-  - image_url: galleries/iphone5s/1-opened.jpg
+  - image_url: /images/galleries/iphone5s/1-opened.jpg
     caption: "Opening the box"
-  - image_url: galleries/iphone5s/2-accessories.jpg
+  - image_url: /images/galleries/iphone5s/2-accessories.jpg
     caption: "Accessories"
-  - image_url: galleries/iphone5s/3-case-unopened.jpg
+  - image_url: /images/galleries/iphone5s/3-case-unopened.jpg
     caption: "Tan leather case"
-  - image_url: galleries/iphone5s/4-case-front.jpg
+  - image_url: /images/galleries/iphone5s/4-case-front.jpg
     caption: "Inside of the case"
-  - image_url: galleries/iphone5s/5-case-back.jpg
+  - image_url: /images/galleries/iphone5s/5-case-back.jpg
     caption: "back of the case"
 ---
 I had a difficult time choosing a phone this generation - more on that later... but for now, suffice it to say I wound up going with an iPhone 5s in "I refuse to call it space" gray, Verizon, 64 gig. Behold the obligatory unboxing photos below (sorry for the crappy photos-- they were taken with my ancient iPhone 4 that I use for testing purposes because I traded in my iPhone 4S.) That's right, I skipped the iPhone 5, so this is a big upgrade for me - bigger screen, dramatically better camera, etc. (My wife has an iPhone 5, so I'm familiar with it and was able to compare.)

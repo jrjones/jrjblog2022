@@ -7,6 +7,8 @@ tags: [artificial intelligence, machine learning, futurism, game theory, poker, 
 author: jrj
 teaser: "A look at trends in poker AI, and predictions on impact over the next decade…"
 image:
+  src: "/images/postheads/pokerai.png"
+  width: 100%
   homepage: "postheads/pokerai.png"
   thumb: "postheads/pokerai.png"
 header:

@@ -7,6 +7,8 @@ tags: [1Password, Apple, iOS, Mac OS, passwords, cryptography, privacy, security
 category: Security
 teaser: "I strongly recommend 1Password, but don’t use one feature…"
 image:
+  src: /images/postheads/1passwordsharing.png
+  width: 100%
   frontpage: postheads/1passwordsharing.png
   thumb: postheads/1passwordsharing.png
 header:

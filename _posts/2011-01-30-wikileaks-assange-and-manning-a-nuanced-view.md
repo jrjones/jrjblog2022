@@ -6,6 +6,7 @@ author: jrj
 comments: false
 tags: [civil disobedience, News and Links, Politics, Technology, WikiLeaks, wikileaks]
 category: Politics
+archive: true
 ---
 I've been fascinated by the <a href="http://www.wikileaks.ch/" target="_blank">WikiLeaks</a> saga since day one. The combination of hacker mystique, international intrigue, and revelatory new information about normally secretive actions of our government is too juicy to ignore. WikiLeaks cofounder <a href="http://en.wikipedia.org/wiki/Julian_assange" target="_blank">Julian Assange</a> is the ideal personification of this new model of scientific journalism, but he's just a figurehead-- a lightning rod to draw the criticism (and threats) of governments. His role is to distract the enemies of WikiLeaks into focusing their attention and actions on the individual, rendering them impotent. It's a brilliant strategy, but he's playing a dangerous game.
 

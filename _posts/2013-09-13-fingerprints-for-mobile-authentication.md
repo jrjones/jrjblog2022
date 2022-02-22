@@ -7,6 +7,8 @@ tags: [authentication, biometric, fingerprint, iPhone, privacy, security, techno
 category: Security
 teaser: "Busting a few myths about fingerprint authentication in the mobile space…"
 image:
+  src: postheads/fingerprints-for-mobile-auth.png
+  width: 100%
   frontpage: postheads/fingerprints-for-mobile-auth.png
   thumb: postheads/fingerprints-for-mobile-auth.png
 header:

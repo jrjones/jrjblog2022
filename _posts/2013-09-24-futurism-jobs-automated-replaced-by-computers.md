@@ -10,6 +10,8 @@ header:
   image: postheads/automation_jobs.png
   background-color: "#333333"
 image:
+  src: /images/postheads/automation_jobs.png
+  width: 100%
   frontpage: postheads/automation_jobs.png
   thumb: postheads/automation_jobs.png
 teaser: "While “half” is probably hyperbole, the issue is a real one…"

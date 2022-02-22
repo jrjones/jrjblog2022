@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What's Next: Leaving Adobe, starting Virtual Neural"
-date: 2020-03-04 16:11
+date: 2020-02-20 16:11
 category: "Career"
 tags: [career, JRJ Personal, Adobe, Virtual Neural]
 author: jrj

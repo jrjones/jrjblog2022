@@ -10,9 +10,11 @@ teaser: "A great video interview with Bruce Scheier on the NSA and privacy."
 video:
   embedUrl: https://youtube.com/embed/kWNk9irv1e8
   contentUrl: http://youtu.be/kWNk9irv1e8
-  thumbnailUrl: postheads/schnierervid.jpg
+  thumbnailUrl: /images/postheads/schnierervid.jpg
 iframe: "<iframe width='100%' height='400' src='https://www.youtube.com/embed/kWNk9irv1e8' frameborder='0' allowfullscreen></iframe>"
 image:
+  src: /images/postheads/schnierervid.jpg
+  width: 100%
   frontpage: postheads/schnierervid.jpg
   thumb: postheads/schnierervid.jpg
 ---

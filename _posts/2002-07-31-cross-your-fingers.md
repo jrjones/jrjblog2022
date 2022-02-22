@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cross your fingers...
-date: 2002-07-31 23:09
+date: 2002-07-31 23:09:00
 author: jrj
 comments: false
 categories: [Uncategorized]

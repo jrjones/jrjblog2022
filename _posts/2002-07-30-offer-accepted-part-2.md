@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Offer Accepted! Part 2
-date: 2002-07-30 23:08
+date: 2002-07-30 23:08:00
 author: jrj
 comments: false
 categories: [Uncategorized]

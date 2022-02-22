@@ -5,6 +5,7 @@ date: 2006-09-29 12:16
 author: jrj
 comments: false
 categories: [Uncategorized]
+archive: true
 ---
 Paul Thurrott and I have been good friends since college. He’s got a great <a href="http://www.twit.tv/ww">new podcast</a> with TV’s Leo Laporte-- the first episode came out today, and is every bit as good as what you would expect from Paul and Leo. If you’re even remotely interested in tech news, you should subscribe.
 

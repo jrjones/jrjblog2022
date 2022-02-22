@@ -8,6 +8,8 @@ author: jrj
 teaser: "Initial thoughts after my first week and and a half with the Apple Watch…"
 subheadline: "Reviewed"
 image:
+  src: "/images/postheads/applewatch.png"
+  width: 100%
   homepage: "postheads/applewatch.png"
   thumb: "postheads/applewatch.png"
 header:

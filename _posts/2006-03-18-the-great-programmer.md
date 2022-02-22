@@ -5,6 +5,7 @@ date: 2006-03-18 00:52
 author: jrj
 comments: false
 categories: [Uncategorized]
+archive: true
 ---
 
 Edited to add (2020) This post is just bad. I no longer would use the phrase "not a real programmer." Maybe "great" programmer or "master programmer" or something. I don't know. I still think it's worth knowing what the layer or two beneath you are doing, but I no longer categorize developers by where they start in that stack as long as they understand a layer or two beneath them. 

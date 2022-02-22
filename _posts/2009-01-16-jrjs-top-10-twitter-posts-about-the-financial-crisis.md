@@ -6,6 +6,7 @@ author: jrj
 comments: false
 tags: [Economics, Financial Crisis, Humor, Twitter]
 category: Economics
+archive: true
 ---
 A little levity in honor of a crazy market, I thought I’d share my top-10 twitter comments about the economy over the last few months. For more, <a href="http://www.twitter.com/jrj">http://www.twitter.com/jrj</a>
 

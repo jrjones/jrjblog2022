@@ -8,6 +8,8 @@ tags: [JRJ personal, movies, reviews, science fiction, books]
 category: JRJ Personal
 teaser: "I liked Ender’s Game, but it’s a 5-star book compressed into a 3.5 star movie…"
 image:
+  src: /images/postheads/endersgame.png
+  width: 100%
   frontpage: postheads/endersgame.png
   thumb: postheads/endersgame.png
 header:

@@ -7,6 +7,7 @@ tags: [virtual reality, vr, augmented reality, ar, mixed reality, holodeck, imme
 author: jrj
 teaser: "I had an oportunity to try out humanity's current best attempt at building the Holodeck from Star Trek... it was everything I hoped it would be."
 image:
+  src: "/images/voidsign.jpg"
   homepage: "voidsign.jpg"
   thumb: "voidsign-thumb.jpg"
   caption: "Humanity's best attempt so far at building a holodeck..."

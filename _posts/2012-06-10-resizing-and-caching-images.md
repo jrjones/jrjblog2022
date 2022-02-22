@@ -12,6 +12,8 @@ header:
 teaser: "A new open source project for auto-scaling images..."
 image:
   thumb: postsupport/github.jpg
+
+archive: true
 ---
 The previous version of the jrjBlog was based on the excellent open-source [Mango ColdFusion blog engine][1]. I liked it primarily because it was easy to tweak the code and implement fun new features on the site, but in the end I finally gave up and migrated to [WordPress][2] because of the availability of so many wonderful plug-ins.
 
