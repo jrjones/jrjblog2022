@@ -3,7 +3,7 @@ layout: post
 title: "What's Next: Leaving Adobe, starting Virtual Neural"
 date: 2020-02-20 16:11
 category: "Career"
-tags: [career, JRJ Personal, Adobe, Virtual Neural]
+tags: [JRJ Personal, Adobe, Virtual Neural]
 author: jrj
 teaser: "After 10 years at Adobe, I'm leaving to start a new company to explore the intersection of spatial computing (VR/AR) and Artificial Intelligence (AI/ML/DL)"
 image:
