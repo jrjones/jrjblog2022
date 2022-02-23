@@ -2,6 +2,7 @@
 layout: post
 title: "Acknowledging Virtual Neural and G-Force Live"
 date: 2022-02-20 18:45:00
+tags: [Virtual Neural]
 author: jrj
 ---
 I want to acknowledge Virtual Neural, LLC and G-Force Live, which unfortunately have to go from ⏸ to ⏹ so I can accept my dream job.
