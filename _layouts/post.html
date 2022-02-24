@@ -66,13 +66,6 @@ tail_includes:
         {% include timeago.html date=page.date tooltip=true %}
       </span>
 
-      <!-- lastmod date -->
-      {% if page.last_modified_at %}
-      <span>
-        {{ site.data.locales[lang].post.updated }}
-        {% include timeago.html date=page.last_modified_at tooltip=true %}
-      </span>
-      {% endif %}
 
       <!-- read time -->
       {% include read-time.html content=content prompt=true %}
