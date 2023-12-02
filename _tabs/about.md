@@ -8,14 +8,17 @@ order: 1
 > "Scruffy-looking nerd herder and world's foremost expert in self-proclaimed thought leadership"
 
 - Director of Software Engineering at a Fortune-500 media conglomerate
-- Previously worked at [Adobe](https://adobe.com) and [Microsoft](https://microsoft.com)
+- 10 years at [Adobe](https://adobe.com), 5 years at [Microsoft](https://microsoft.com), and more than a decade of startups
 
 
 ## Contacting JRJ
-Yeah, this is kind of one of those "if you know, you know" situations. If I wanted you to contact me you would know how to contact me.
+This is kind of one of those "if you know, you know" situations. If I wanted you to contact me you would know how to contact me.
 
 That said, JRJ...
 
 - Is on twitter/X as [@jrj](https://twitter.com/jrj) but doesn't really post anymore
 - Used to blog at [blog.jrj.org](https://blog.jrj.org) but this site is archived
 - Is on [LinkedIn](https://jrj.io/in) but doesn't accept unknown connections
+
+### Colophon
+Static origin via [Jekyll](https://jekyllrb.com) as before, but more minimalist [Chirpy theme](https://github.com/cotes2020/jekyll-theme-chirpy) (with minor tweaks.)
