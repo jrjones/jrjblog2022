@@ -4,7 +4,7 @@ title: About
 icon: fas fa-archive
 order: 1
 ---
-# About Joseph R. Jones (JRJ)
+## About Joseph R. Jones (JRJ)
 > "Scruffy-looking nerd herder and world's foremost expert in self-proclaimed thought leadership"
 
 - Director of Software Engineering at a Fortune-500 media conglomerate
