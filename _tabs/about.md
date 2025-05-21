@@ -11,7 +11,7 @@ order: 1
 - 10 years at [Adobe](https://adobe.com), 5 years at [Microsoft](https://microsoft.com), and more than a decade of startups
 
 ![Scruffy-looking nerd herder, seen here aboard his favorite space ship](/assets/img/starcruiser.jpg)
-Scruffy-looking nerd herder, seen here about to board his favorite space ship with the fam
+Scruffy-looking nerd herder, seen here aboard his favorite space ship
 ## Contacting JRJ
 This is one of those "if you know, you know" situations. If I wanted you to contact me you would know how to contact me.
 
