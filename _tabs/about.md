@@ -5,13 +5,15 @@ icon: fas fa-archive
 order: 1
 ---
 ## About Joseph R. Jones (JRJ)
-> "Scruffy-looking nerd herder and world's foremost expert in self-proclaimed thought leadership"
+> "Scruffy-looking nerd herder (retired) and world's foremost expert in self-proclaimed thought leadership"
 
-- Director of Software Engineering at a Fortune-500 media conglomerate
-- 10 years at [Adobe](https://adobe.com), 5 years at [Microsoft](https://microsoft.com), and more than a decade of startups
+I [retired](/2025/12/08/Retired-from-Disney-and-30-plus-years/) from [The Walt Disney Company](https://thewaltdisneycompany.com) in October, 2025 (I was the Director of Software Engineering, and my team focused on native players for [Disney+](https://disneyplus.com), [Hulu](https://hulu.com), and [ESPN](https://www.espn.com).) Before tha, I spent 10 years at [Adobe](https://adobe.com), 5 years at [Microsoft](https://microsoft.com), and more than a decade of startups going back to the early 90s.
 
 ![Scruffy-looking nerd herder, seen here aboard his favorite space ship](/assets/img/starcruiser.jpg)
 Scruffy-looking nerd herder, seen here aboard his favorite space ship
+
+As I write this, Rachel and I are planning a move from Cary, NC to Payson, Arizona. Excited to get back to rim country in the first half of 2026. 
+
 ## Contacting JRJ
 This is one of those "if you know, you know" situations. If I wanted you to contact me you would know how to contact me.
 

@@ -5,17 +5,23 @@ layout: page
 
 {% include lang.html %}
 
+{% for post in site.posts %}
+  {% if post.pin %}
+<h1>{{ post.title }}</h1>
+{{ post.content }}
+    {% break %}
+  {% endif %}
+{% endfor %}
 
-<h1>Welcome to jrj.org</h1>
-
-<p>This is the personal blog of Joseph R. Jones. I don't really post anymore. I just maintain the archive because it’s been around in various forms for decades.</p>
-
-<p>The site is an <a href="/archives">archive</a> of posts going back to 2002. A few examples:</p>
-
+<h3>Recent Posts</h3>
 <ul>
-  <li><a href="/2022/02/20/Acknowledging-Virtual-Neural-and-G-Force-Live/">Acknowledging Virtual Neural and G-Force Live</a></li>
-  <li><a href="/2020/02/20/the-next-challenge-leaving-adobe-virtual-neural/">What's Next: Leaving Adobe, starting Virtual Neural</a></li>
-  <li><a href="/2016/11/28/VR-vs-AR-Immersive-technologies/">Which Will Be Dominant: Augmented Reality (AR) or Virtual Reality (VR)?</a></li>
-  <li><a href="/2015/05/17/ai-bots-revenge-poker-and-artificial-intelligence/">Revenge of the Bots: Poker & AI</a></li>
-  <li><a href="/2005/01/09/raising-for-information/">Raising for Information</a></li>
+{% assign count = 0 %}
+{% for post in site.posts %}
+  {% unless post.pin %}
+    {% if count < 3 %}
+  <li><a href="{{ post.url }}">{{ post.title }}</a> <span class="text-muted">({{ post.date | date: "%B %Y" }})</span></li>
+      {% assign count = count | plus: 1 %}
+    {% endif %}
+  {% endunless %}
+{% endfor %}
 </ul>
