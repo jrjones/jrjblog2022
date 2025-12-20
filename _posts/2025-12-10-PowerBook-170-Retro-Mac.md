@@ -6,9 +6,11 @@ tags: [macOS, retro]
 author: jrj
 ---
 
-In the early 90s, I bought my first laptop for college: a slightly used PowerBook 170 that I got for a steal. I loved that machine. It served me well for almost five years, surviving RAM and hard drive upgrades without ever letting me down.
+In the early 90s, I bought my first laptop for college: a slightly used PowerBook 140 that I got for a steal. I loved that machine. It served me well for almost five years, surviving RAM and hard drive upgrades without ever letting me down. Still, though, it wasn't a PowerBook 170 - that was unobtanium. (Same basic machine with an active matrix, though still black and white, screen.) I really wanted a 170. Eventually I traded the 140 in for a 165c, which was basically a 170 with a color, but not active matrix, screen. I still wanted a 170. That screen was beautiful (for its day.)
 
-A couple years ago, I decided it was time to restore it to its original glory. Thanks to a donor PowerBook 180 I found on eBay—dead screen, blown motherboard, but just the right parts cosmetically pristine, this machine now looks better than the day I bought it. Even the little back door that covers the ports is intact, which is surprisingly hard to find.
+A couple years ago, I decided it was time to restore the 165c to its original glory, but the screen was dead. Thanks to a donor PowerBook 180 I found on eBay—dead screen, blown motherboard, but just the right parts cosmetically pristine, and a couple other parts from a donor 170 that was pretty much dead except for the screen and mobo, this machine now looks better than the day I bought the 165c... but now it's the 170 I wanted! Even the little back door that covers the ports is intact, which is surprisingly hard to find. This thing really is a mint, no-compromises PowerBook 170, even if it took 3 machines to get there.
+
+Next up I need to get these pictures over to [retro.jrj.org](https://retro.jrj.org/macs.html)
 
 ![PowerBook 170 - fully restored](/assets/img/powerbook170/powerbook-boot-front.jpeg)
 ![PowerBook 170 battery cover closed](/assets/img/powerbook170/powerbook-battery-closed.jpeg)
