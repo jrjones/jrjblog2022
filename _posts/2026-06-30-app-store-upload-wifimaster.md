@@ -11,7 +11,7 @@ A while back, I acquired a small iOS app named "[WiFi Analyzer: Network Master](
 
 The acquisition completed just in time for us to plan and execute a cross-country move from North Carolina back to Arizona Rim Country, which took a lot longer (and was more all-encompassing) than I expected.
 
-Anyway... I finally got around to shipping the ground-up rewrite of the app. I removed all the third-party trackers, reduced the insane pricing, and eliminating the sketchy dark pattern free trial. 
+Anyway... I finally got around to shipping the ground-up rewrite of the app. I removed all the third-party trackers.* 
 
 I also added a bunch of "ground-truth" tests to compare the results from the network scanner to what typical UNIX tools find on the Mac, so the scanner is faster and more accurate. 
 
@@ -26,3 +26,7 @@ Next update will add localized versions in a few languages, then I'll add right-
 A lot of interesting stuff in getting here from there, I plan to write up the network operations and testing stuff once the updated app is fully released. 
 
 (Don't download 1.0 - seriously. Wait until 2.0 is approved.)
+
+---
+
+\* Edited July 13, 2026: this post originally said 2.0 also reduced the pricing and removed the free-trial dark pattern. It didn't — the old pricing remained in 2.0 by mistake, and was fixed in [2.1](/2026/07/13/a-promise-only-i-noticed-i-was-breaking/).
