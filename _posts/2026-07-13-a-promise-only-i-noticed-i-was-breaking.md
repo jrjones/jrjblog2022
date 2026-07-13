@@ -4,7 +4,7 @@ title: "The promises I was quietly breaking"
 date: 2026-07-13 08:00:00
 tags: [iOS, macOS, visionOS, rimrock-systems]
 author: jrj
-image: /assets/img/wifimaster-2-1/visionos-dark-museum.png
+image: /assets/img/wifimaster-2-1/visionos-office-speedtest.jpg
 ---
 <a href="https://wifimaster.app"><img src="/assets/img/wifimaster-2-1/wifimaster-icon-dark.png" alt="WiFiMaster app icon" width="96" class="left" style="border-radius: 22.37%;"/></a>
 
@@ -17,7 +17,7 @@ _Speed test history, in a real Mac window._
 
 **The Vision Pro version is now a native visionOS app** instead of iPad compatibility mode. It supports native charms, and the translucency that makes it feel at home in the headset. I've tested it on an M2 and M5 Vision Pro, and can't tell the difference (from here on out, the M2 is the target I'll test on as primary so I have a good sense of performance. The M5 is too fast for performance testing.)
 
-![WiFiMaster's Speed Test running natively on Apple Vision Pro, floating in a dark museum gallery](/assets/img/wifimaster-2-1/visionos-dark-museum.png)
+![WiFiMaster's Speed Test running natively on Apple Vision Pro, floating over a desk in passthrough](/assets/img/wifimaster-2-1/visionos-office-speedtest.jpg)
 _[WiFiMaster 2.1](https://wifimaster.app), running natively on Apple Vision Pro._
 
 **I also spent some time on the iPad version.** I did this one last, by design. With the iPhone version baked, and the full-featured Mac version in place, iPad had permission to find the happy balance that better fits its form factor.
