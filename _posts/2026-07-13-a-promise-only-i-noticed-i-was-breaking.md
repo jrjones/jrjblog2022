@@ -28,7 +28,7 @@ _The rebuilt iPad layout._
 **How I got there, if you care about process:** port to the hardest surface first. The Mac is the least forgiving of the three, so I built there, learned what the design actually wanted, and pushed those lessons back down to iPad and iPhone. Hard-platform-first pays for itself twice. And it gave me a huge backlog of ideas for future versions, including a rebrand.
 
 ## The uncomfortable part
-I mentioned in the [2.0 release post](/2026/06/30/app-store-upload-wifimaster/) that the app was an acquisition, and my first task was removing third-party trackers and shipping a ground-up rewrite that doesn't phone home to data brokers. The part that didn't happen until 2.1 was changing the pricing model.
+I mentioned in the [2.0 release post](/2026/06/30/app-store-upload-wifimaster/) that the app was an acquisition, and my first task was removing third-party trackers and shipping a ground-up rewrite that doesn't phone home to data brokers. Changing the pricing model was supposed to be part of 2.0 too. By my mistake it wasn't, so it ships now.
 
 I'm not going to sugar-coat it... the app was borderline scammy. It was pushing users to an absurdly expensive weekly subscription with a free trial, in hopes it could collect rent on those that forgot to cancel. *That ends today.*
 
