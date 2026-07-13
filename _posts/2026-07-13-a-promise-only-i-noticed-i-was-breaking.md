@@ -22,10 +22,7 @@ _[WiFiMaster 2.1](https://wifimaster.app), running natively on Apple Vision Pro.
 
 **I also spent some time on the iPad version.** I did this one last, by design. With the iPhone version baked, and the full-featured Mac version in place, iPad had permission to find the happy balance that better fits its form factor.
 
-<div style="display: flex; gap: 1.5rem; flex-wrap: wrap; align-items: flex-start;">
-  <img src="/assets/img/wifimaster-2-1/ipad-speed-dark.jpg" alt="Speed test on the rebuilt iPad app" style="flex: 1 1 300px; min-width: 0; border-radius: 14px; box-shadow: 0 6px 12px rgba(0,0,0,0.5);"/>
-  <img src="/assets/img/wifimaster-2-1/ipad-inspector-dark.jpg" alt="Device table and inspector on the rebuilt iPad app" style="flex: 1 1 300px; min-width: 0; border-radius: 14px; box-shadow: 0 6px 12px rgba(0,0,0,0.5);"/>
-</div>
+![Device table and inspector on the rebuilt iPad app](/assets/img/wifimaster-2-1/ipad-inspector-dark.jpg)
 _The rebuilt iPad layout._
 
 **How I got there, if you care about process:** port to the hardest surface first. The Mac is the least forgiving of the three, so I built there, learned what the design actually wanted, and pushed those lessons back down to iPad and iPhone. Hard-platform-first pays for itself twice. And it gave me a huge backlog of ideas for future versions, including a rebrand.
