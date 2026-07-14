@@ -6,7 +6,7 @@ tags: [iOS, macOS, visionOS, rimrock-systems]
 author: jrj
 image: /assets/img/wifimaster-2-1/visionos-office-speedtest.jpg
 ---
-<a href="https://wifimaster.app"><img src="/assets/img/wifimaster-2-1/wifimaster-icon-dark.png" alt="WiFiMaster app icon" width="96" class="left" style="border-radius: 22.37%;"/></a>
+<a href="https://wifimaster.app"><img src="/assets/img/wifimaster-2-1/wifimaster-icon-dark.png" alt="WiFiMaster app icon" width="96" class="left" style="-webkit-mask-image: url(&quot;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Cpath d='M50 0C13.4 0 0 13.4 0 50s13.4 50 50 50 50-13.4 50-50S86.6 0 50 0z'/%3E%3C/svg%3E&quot;); mask-image: url(&quot;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Cpath d='M50 0C13.4 0 0 13.4 0 50s13.4 50 50 50 50-13.4 50-50S86.6 0 50 0z'/%3E%3C/svg%3E&quot;); -webkit-mask-size: 100% 100%; mask-size: 100% 100%;"/></a>
 
 When [WiFiMaster 2.0 shipped](/2026/06/30/app-store-upload-wifimaster/), it was designed for iPhone but "ran fine" on iPad. (It felt like a big phone, but it worked.) The app also ran on Mac and Apple Vision Pro on day one, technically. Both of them ran the "Designed for iPad" build: a tablet-shaped, blown-up iPhone app in a window, pretending. The whole pitch of [Rimrock](https://rimrocksystems.com) is native craft, yet here I was shipping the exact thing I hate, on two platforms at once. Fortunately, that state of affairs lasted less than 2 weeks.
 
