@@ -29,4 +29,4 @@ A lot of interesting stuff in getting here from there, I plan to write up the ne
 
 ---
 
-\* Edited July 13, 2026: this post originally said 2.0 also reduced the pricing and removed the free-trial dark pattern. It didn't — the old pricing remained in 2.0 by mistake, and was fixed in [2.1](/2026/07/13/a-promise-only-i-noticed-i-was-breaking/).
+\* Edited July 13, 2026: this post originally said 2.0 also reduced the pricing and removed the free-trial dark pattern. It didn't — the old pricing remained in 2.0 by mistake, and was fixed in [2.1](/2026/07/13/the-promises-i-was-quietly-breaking/).
