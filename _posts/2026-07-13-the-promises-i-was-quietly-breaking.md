@@ -6,7 +6,7 @@ tags: [iOS, macOS, visionOS, rimrock-systems]
 author: jrj
 image: /assets/img/wifimaster-2-1/visionos-office-speedtest.jpg
 ---
-<a href="https://wifimaster.app"><img src="/assets/img/wifimaster-2-1/wifimaster-icon-dark.png" alt="WiFiMaster app icon" width="112" class="left"/></a>
+<a href="https://wifimaster.app"><img src="/assets/img/wifimaster-2-1/wifimaster-icon.png" alt="WiFiMaster app icon" width="112" class="left"/></a>
 
 When [WiFiMaster 2.0 shipped](/2026/06/30/app-store-upload-wifimaster/), it was designed for iPhone but "ran fine" on iPad. (It felt like a big phone, but it worked.) The app also ran on Mac and Apple Vision Pro on day one, technically. Both of them ran the "Designed for iPad" build: a tablet-shaped, blown-up iPhone app in a window, pretending. The whole pitch of [Rimrock](https://rimrocksystems.com) is native craft, yet here I was shipping the exact thing I hate, on two platforms at once. Fortunately, that state of affairs lasted less than 2 weeks.
 
