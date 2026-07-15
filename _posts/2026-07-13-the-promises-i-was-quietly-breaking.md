@@ -6,7 +6,7 @@ tags: [iOS, macOS, visionOS, rimrock-systems]
 author: jrj
 image: /assets/img/wifimaster-2-1/visionos-office-speedtest.jpg
 ---
-<a href="https://wifimaster.app"><img src="/assets/img/wifimaster-2-1/wfm-appicon-dark.png" alt="WiFiMaster app icon" width="112" class="left"/></a>
+<a href="https://wifimaster.app"><img src="/assets/img/wifimaster-2-1/wfm-official-dark.png" alt="WiFiMaster app icon" width="112" class="left"/></a>
 
 When [WiFiMaster 2.0 shipped](/2026/06/30/app-store-upload-wifimaster/),
 it was designed for iPhone but "ran fine" on iPad. (It felt like a big
