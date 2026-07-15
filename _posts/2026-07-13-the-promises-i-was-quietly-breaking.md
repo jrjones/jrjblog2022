@@ -32,8 +32,7 @@ _Speed test history, in a real Mac window._
 _Shortcuts support: run a speed test or a scan from any automation, with Download, Upload, Ping, and Jitter as typed variables._
 
 **The Vision Pro version is now a native visionOS app** no moreiPad compatibility mode.
-It supports native charms and the translucency that makes it feel at home in the headset.
-I've tested it on an M2 and M5 Vision Pro, and can't tell the difference [^perf]
+It supports native charms and the translucency that makes it feel at home in the headset. [^perf]
 
 ![WiFiMaster's Speed Test running natively on Apple Vision Pro, floating over a desk in passthrough](/assets/img/wifimaster-2-1/visionos-office-speedtest.jpg)
 _[WiFiMaster 2.1](https://wifimaster.app), running natively on Apple Vision Pro._
@@ -75,5 +74,6 @@ logs, and even those are anonymized... and they are *reliable*.)
 **With 2.1 the transition from acquired app to Rimrock product is almost complete.** This is a
 product I can stand behind and continue to improve on, with better pricing model.
 
-[^perf]: From here on out, M2 is the Vision Pro target I'll test on so I have a good sense of
-performance. M5 is too fast for performance testing.
+[^perf]: I've tested it on an M2 and M5 Vision Pro, and can't tell the difference. From here on out,
+M2 is the Vision Pro target I'll test on so I have a good sense of performance. M5 is too fast for
+performance testing.
