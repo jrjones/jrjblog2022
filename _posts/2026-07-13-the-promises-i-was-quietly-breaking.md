@@ -2,6 +2,7 @@
 layout: post
 title: "The Promises I was Quietly Breaking"
 date: 2026-07-14 19:00:00 -0700
+permalink: /2026/07/13/the-promises-i-was-quietly-breaking/
 tags: [iOS, macOS, visionOS, rimrock-systems]
 author: jrj
 image: /assets/img/wifimaster-2-1/visionos-office-speedtest.jpg
