@@ -1,12 +1,31 @@
 <!--
   Navigation buttons at the bottom of the post.
+  Skips posts flagged `archive: true` so archived posts do not leak back in via
+  prev/next — they are already hidden from the Archives listing. Walks to the
+  nearest non-archived neighbor in each direction; collapses to the disabled
+  state at a sequence boundary. See issue #4.
 -->
 
+{%- comment -%} Nearest non-archived neighbors by date. previous = older, next = newer. {%- endcomment -%}
+{% assign cur_ts = page.date | date: '%s' | plus: 0 %}
+{% assign prev_post = nil %}
+{% assign next_post = nil %}
+{% for p in site.posts %}
+  {% if p.archive == true %}{% continue %}{% endif %}
+  {% if p.url == page.url %}{% continue %}{% endif %}
+  {% assign p_ts = p.date | date: '%s' | plus: 0 %}
+  {% if p_ts < cur_ts %}
+    {% unless prev_post %}{% assign prev_post = p %}{% endunless %}
+  {% elsif p_ts > cur_ts %}
+    {% assign next_post = p %}
+  {% endif %}
+{% endfor %}
+
 <div class="post-navigation d-flex justify-content-between">
-  {% if page.previous.url %}
-  <a href="{{ site.baseurl }}{{ page.previous.url }}" class="btn btn-outline-primary"
+  {% if prev_post %}
+  <a href="{{ site.baseurl }}{{ prev_post.url }}" class="btn btn-outline-primary"
     prompt="{{ site.data.locales[lang].post.button.previous }}">
-    <p>{{ page.previous.title }}</p>
+    <p>{{ prev_post.title }}</p>
   </a>
   {% else %}
   <span class="btn btn-outline-primary disabled"
@@ -15,10 +34,10 @@
   </span>
   {% endif %}
 
-  {% if page.next.url %}
-  <a href="{{ site.baseurl }}{{page.next.url}}" class="btn btn-outline-primary"
+  {% if next_post %}
+  <a href="{{ site.baseurl }}{{ next_post.url }}" class="btn btn-outline-primary"
     prompt="{{ site.data.locales[lang].post.button.next }}">
-    <p>{{ page.next.title }}</p>
+    <p>{{ next_post.title }}</p>
   </a>
   {% else %}
   <span class="btn btn-outline-primary disabled"
